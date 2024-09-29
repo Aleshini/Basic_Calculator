@@ -16,8 +16,8 @@ This project is ideal for anyone looking to develop their skills in Python GUI p
 ## Prerequisites
 Before running this project, you must have the following libraries installed:
 
-Tkinter: Tkinter is a standard Python library for creating GUIs.
-Pillow (PIL): Pillow is used to handle and display images in the GUI.
+- Tkinter: Tkinter is a standard Python library for creating GUIs.
+- Pillow (PIL): Pillow is used to handle and display images in the GUI.
 
 ## Getting Started
 
@@ -42,19 +42,15 @@ python calculator.py
 
 ## Usage
 - **Launch the calculator application:**
-
-- Upon launching, the GUI will display a calculator interface with numeric and operator buttons, represented by images.
+Upon launching, the GUI will display a calculator interface with numeric and operator buttons, represented by images.
 - **Perform basic arithmetic operations:**
-
-- Click on the number buttons (0-9) to input numbers.
-- Use the operator buttons (+, -, *, /) to perform operations.
-- Click on the = button to compute the result.
+Click on the number buttons (0-9) to input numbers.
+Use the operator buttons (+, -, *, /) to perform operations.
+Click on the = button to compute the result.
 - **Clear the display:**
-- 
-- Click on the clear (C) button to reset the calculator display.
-- **Error Handling:*8
-
-- In case of invalid input or division by zero, the calculator will display Error on the screen.
+Click on the clear (C) button to reset the calculator display.
+- **Error Handling:**
+In case of invalid input or division by zero, the calculator will display Error on the screen.
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository, make your changes, and create a pull request with a detailed description of your contributions.
